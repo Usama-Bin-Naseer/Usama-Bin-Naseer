@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Usama-Bin-Naseer future Software Engineer 
+- 👋 Hi, I’m @Usama-Bin-Naseer Software Engineer 
 - 👀 I’m interested in Latest Tech and Problem Solving
-- 🌱 I’m currently learning Web development from @Umansheikh224
+- 🌱 I’m currently working as Cloud Engineer.
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me email[usama1905315@gmail.com], twitter[@UsamaSandhu_]
 
